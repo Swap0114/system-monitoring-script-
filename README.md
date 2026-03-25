@@ -6,7 +6,7 @@ This script monitors:
 - Top processes
 
 ## Run
-bash system_monitor.sh
+./system_monitor.sh
 
 ## sample output 
 
